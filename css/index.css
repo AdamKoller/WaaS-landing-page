@@ -13,6 +13,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
   }
+  .uk-navbar-container:not(.uk-navbar-transparent) {
+    border-bottom: 2px solid #D7D7DB !important;
+  }
   .nav-links a{
     font-size: 14px !important;
   }
@@ -79,6 +82,9 @@ body {
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+  }
+  .uk-navbar-container:not(.uk-navbar-transparent) {
+    border-bottom: 2px solid #D7D7DB !important;
   }
   .nav-links a{
     font-size: 20px !important;
